@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveData Databinding</string>
+    <string name="update_text">Update Text</string>
+</resources>
